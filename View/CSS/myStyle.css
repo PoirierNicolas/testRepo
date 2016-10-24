@@ -1,0 +1,33 @@
+.imgsize
+{
+	width: 100px;
+	height: 70px;
+}
+
+#navContent
+{
+	margin-left: 30%;
+	padding-top: 10px;
+}
+
+#titleLDb
+{
+	text-align: center;
+	padding-top: 78px;
+}
+
+.form-control
+{
+	display: inline;
+	width: 49%;
+}
+
+.textCenter
+{
+	text-align: center;
+}
+
+th
+{
+	text-align: center;
+}
